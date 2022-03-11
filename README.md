@@ -1,2 +1,3 @@
-#IPTVlist
-An IPTV source list
+# IPTVlist
+
+An IPTV playlist.
