@@ -1,0 +1,46 @@
+陕西卫视HD,http://1.83.105.252:9901/tsfile/live/0136_1.m3u8
+
+陕西新闻资讯HD,http://113.200.58.252:9901/tsfile/live/1008_1.m3u8
+
+
+CCTV1HD,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+CCTV1HD,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
+CCTV2HD,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+CCTV2HD,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+CCTV3HD,http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
+CCTV3HD,http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8
+CCTV4HD,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210102.m3u8
+2000210102 CCTV1
+2000203602 CCTV2
+2000203802 CCTV3
+2000204802 CCTV4
+2000205102 CCTV5
+2000204502 CCTV5+
+2000203302 CCTV6
+2000510002 CCTV7
+2000203902 CCTV8
+2000499402 CCTV9
+2000203502 CCTV10
+2000204102 CCTV11
+2000202602 CCTV12
+2000204602 CCTV13
+2000204402 CCTV14
+2000205002 CCTV15
+2000204202 CCTV17
+
+http://livepull.sxiptv.cn/live/shanxiweishihd.flv?txSecret=25df739ca569e9ffda085cd1fcb0d450&txTime=642ffedb
+http://livepull.sxiptv.cn/live/CCTV16.flv?txSecret=846891a0b4c9d03c564687f253f204ef&txTime=642fff59
+http://livepull.sxiptv.cn/live/yuandiandaoshilive.flv?txSecret=e6a6ce10f126d0711db81f599acea249&txTime=642fffe1
+http://livepull.sxiptv.cn/live/shanxi1taohd.flv?txSecret=bd93ffcf6c2c235565644ee59d6e34d0&txTime=64300053
+http://livepull.sxiptv.cn/live/shanxi2taohd.flv?txSecret=0779e7cb0ad2d6a1c012bd2fa66a94b9&txTime=64300083
+http://livepull.sxiptv.cn/live/shanxi7taohd.flv?txSecret=39152560d43cb5306652e4abd755e617&txTime=643000b5
+http://livepull.sxiptv.cn/live/yuandian5GAPPtext.flv?txSecret=393d5a6b7d8242a454afbf74b969e79a&txTime=643000d5
+http://livepull.sxiptv.cn/live/shanxi1.flv?txSecret=f02439a4610bf6f2bd44e42dd7c5b864&txTime=643000fa
+http://livepull.sxiptv.cn/live/shanxi2.flv?txSecret=4bca2e27629dab9d2a50d28d69f9ad3e&txTime=64300125
+http://livepull.sxiptv.cn/live/shanxi3.flv?txSecret=1931ff6a6e1cbb097b154f4e69ef6332&txTime=64300144
+http://livepull.sxiptv.cn/live/shanxi4.flv?txSecret=1cdebaab7fc3da516f36455d8f9f55f7&txTime=6430015f
+http://livepull.sxiptv.cn/live/shanxi5.flv?txSecret=60b4ad100e43a9b7bd5623e4aa4655af&txTime=64300173
+http://livepull.sxiptv.cn/live/shanxi7.flv?txSecret=d624f28ab3d82252b14431213a64eb69&txTime=643001ed
+http://livepull.sxiptv.cn/live/shanxi8.flv?txSecret=1f1a8557088aec75e0b8bb0eb929f694&txTime=643001fd

@@ -7,14 +7,14 @@ import (
 // Worker must be implemented by types that want to use
 // the work pool.
 type Worker interface {
-	Do() (bool, error)
+	Do()
 }
 
 // Pool provides a pool of goroutines that can execute any Worker
 // tasks that are submitted.
 type Pool struct {
 	works chan Worker
-	wg   sync.WaitGroup
+	wg    sync.WaitGroup
 }
 
 // New creates a new work pool.
@@ -32,7 +32,6 @@ func New(maxGoroutines int) *Pool {
 			p.wg.Done()
 		}()
 	}
-
 	return &p
 }
 
