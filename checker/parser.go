@@ -54,7 +54,8 @@ func ParseRange(url string) []string {
 	}
 	res := reg.FindAllStringSubmatch(url, -1)
 	if res == nil {
-		return nil
+		fmt.Println("No matches found: ", url)
+		logrus.Fatalln("No matches found: ", url)
 	}
 	prefix := res[0][reg.SubexpIndex("prefix")]
 	suffix := res[0][reg.SubexpIndex("suffix")]

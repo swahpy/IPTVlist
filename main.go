@@ -1,8 +1,6 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/Hywfred/IPTVlist/checker"
 )
 
@@ -12,8 +10,6 @@ func main() {
 
 	// _ = checker.ParseFromM3uAddr("https://cdn.jsdelivr.net/gh/hywfred/IPTVlist@latest/docs/tvlist.m3u")
 	// checker.CheckAllSync(src_list, 16)
-	res := checker.ParseRange("http://113.200.58.252:9901/tsfile/live/[1000-2000]_1.m3u8")
-	for _, v := range res {
-		fmt.Println(v)
-	}
+	res := checker.ParseRange("http://117.148.179.155/PLTV/88888888/224/322123[0000-9999]/index.m3u8")
+	checker.CheckAllSync(res, 16)
 }
