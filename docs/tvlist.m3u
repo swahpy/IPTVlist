@@ -122,7 +122,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001067/index.m3u8?
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="陕西移动银河",康巴卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="陕西移动银河",西藏卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="" group-title="陕西移动银河",农林卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="陕西移动银河",山东教育卫视
@@ -237,8 +237,6 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001310/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001066/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动银河",圆点生活
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动银河",圆点生活
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动银河",CGTN
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="陕西移动银河",游戏风云
@@ -247,11 +245,11 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002295/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001321/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="弈坛春秋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="陕西移动银河",弈坛春秋
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="测试" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="陕西移动银河",测试
+#EXTINF:-1 tvg-id="" tvg-name="测试" tvg-logo="" group-title="陕西移动银河",测试
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="测试-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="陕西移动银河",测试-1
+#EXTINF:-1 tvg-id="" tvg-name="测试-1" tvg-logo="" group-title="陕西移动银河",测试-1
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="测试-2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg" group-title="陕西移动银河",测试-2
+#EXTINF:-1 tvg-id="" tvg-name="测试-2" tvg-logo="" group-title="陕西移动银河",测试-2
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
