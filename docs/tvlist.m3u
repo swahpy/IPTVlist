@@ -154,11 +154,17 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="陕西移动银河",全纪实
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="SXBC新闻资讯" tvg-logo="" group-title="陕西移动银河",SXBC新闻资讯
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="SXBC新闻资讯" tvg-logo="" group-title="陕西移动银河",SXBC新闻资讯
+http://livepull.sxiptv.cn/live/shanxi1taohd.flv?txSecret=bd93ffcf6c2c235565644ee59d6e34d0&txTime=64300053
 #EXTINF:-1 tvg-id="" tvg-name="SXBC都市青春" tvg-logo="" group-title="陕西移动银河",SXBC都市青春
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="SXBC都市青春" tvg-logo="" group-title="陕西移动银河",SXBC都市青春
+http://livepull.sxiptv.cn/live/shanxi2taohd.flv?txSecret=0779e7cb0ad2d6a1c012bd2fa66a94b9&txTime=64300083
 #EXTINF:-1 tvg-id="" tvg-name="SXBC体育休闲" tvg-logo="" group-title="陕西移动银河",SXBC体育休闲
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="SXBC体育休闲" tvg-logo="" group-title="陕西移动银河",SXBC体育休闲
+http://livepull.sxiptv.cn/live/shanxi7taohd.flv?txSecret=39152560d43cb5306652e4abd755e617&txTime=643000b5
 #EXTINF:-1 tvg-id="" tvg-name="SXBC影视" tvg-logo="" group-title="陕西移动银河",SXBC影视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="SXBC生活" tvg-logo="" group-title="陕西移动银河",SXBC生活
@@ -431,6 +437,12 @@ http://111.20.33.93/TVOD/88888893/224/3221226454/index.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226920/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="陕西移动-回看",千阳
 http://111.20.33.93/TVOD/88888893/224/3221226945/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK TV 31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK TV 32
