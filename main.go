@@ -10,6 +10,6 @@ func main() {
 
 	// _ = checker.ParseFromM3uAddr("https://cdn.jsdelivr.net/gh/hywfred/IPTVlist@latest/docs/tvlist.m3u")
 	// checker.CheckAllSync(src_list, 16)
-	res := checker.ParseRange("http://117.148.179.155/PLTV/88888888/224/322123[0000-9999]/index.m3u8")
+	res := checker.ParseRange("http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000[0000-9999]/index.m3u8?virtualDomain=yinhe.live_hls.zte.com")
 	checker.CheckAllSync(res, 16)
 }

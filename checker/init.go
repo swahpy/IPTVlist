@@ -43,7 +43,7 @@ func writeToFile() {
 	}
 	m3uname := "iptv.m3u"
 	path := filepath.Join(m3upath, m3uname)
-	m3ufile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE, 0666)
+	m3ufile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0666)
 	if err != nil {
 		logrus.Fatalln(err)
 	}
