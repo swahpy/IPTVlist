@@ -117,6 +117,8 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001067/index.m3u8?
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="陕西移动银河",西藏卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="" group-title="陕西移动银河",安多卫视
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="" group-title="陕西移动银河",农林卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="陕西移动银河",山东教育卫视
